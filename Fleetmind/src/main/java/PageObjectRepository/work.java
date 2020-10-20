@@ -15,6 +15,4 @@ WebDriver driver;
 	WebElement workRoute;
 	@FindBy(id="menuItem_WorkzoneList")
 	WebElement workZone;
-	
-	public void
 }

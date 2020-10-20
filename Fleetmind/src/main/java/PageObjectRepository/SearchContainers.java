@@ -47,5 +47,4 @@ public void clickContainerMenu() {
 public void clickContainerTab() {
 	SearchContainerMenu.click();
 }
-public void click
 }
